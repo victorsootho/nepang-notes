@@ -95,7 +95,7 @@
 - **Exposure to Diverse Reading Materials**
     
     - Reading local and international texts.
-    - Listening to radio programs and other media.
+	    - Listening to radio programs and other media.
 
 #### Section 3: Language Proficiency
 
