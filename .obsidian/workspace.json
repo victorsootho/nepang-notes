@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/English Language/00 - English Language Overview.md",
+                "file": "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d35180c0e9c3af13",
+            "id": "ca0fe0607ab82226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/English Language/Practice Exercises/Language Proficiency Drills.md",
+                "file": "Notes/LGCSE/Mathematics/Generalizing Simple Algebraic Statements; Extended.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/English Language/00 - English Language Overview.md",
+                "file": "Notes/LGCSE/Mathematics/Generalizing Simple Algebraic Statements; Extended.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/English Language/00 - English Language Overview.md",
+                "file": "Notes/LGCSE/Mathematics/Generalizing Simple Algebraic Statements; Extended.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/English Language/00 - English Language Overview.md"
+                "file": "Notes/LGCSE/Mathematics/Generalizing Simple Algebraic Statements; Extended.md"
               }
             }
           }
@@ -158,11 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e15c6dc397a5709",
+  "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
+    "Notes/LGCSE/Mathematics/squares, square roots,cubes and cube roots of numbers.md",
+    "Notes/LGCSE/Mathematics/Generalizing Simple Algebraic Statements; Extended.md",
+    "Notes/LGCSE/Mathematics/01 - Numbers/Number Sequences and Patterns.md",
+    "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md",
+    "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
+    "Notes/LGCSE/Mathematics/01 - Numbers",
+    "Notes/LGCSE/English Language/00 - English Language Overview.md",
+    "Notes/LGCSE/Mathematics/Practice Excercises",
+    "Notes/LGCSE/Mathematics",
     "Notes/LGCSE/English Language/Practice Exercises/Language Proficiency Drills.md",
     "Notes/LGCSE/English Language/Practice Exercises/Reading Comprehension.md",
-    "Notes/LGCSE/English Language/00 - English Language Overview.md",
     "Notes/LGCSE/English Language/Practice Exercises/Writing Assignments.md",
     "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency/Editing and Proficiency Exercises.md",
     "Notes/LGCSE/English Language/Practice Exercises",
@@ -182,19 +191,11 @@
     "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/General Writing Skills.md",
     "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/Informative Writing.md",
     "Untitled.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/Argumentative Writing.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/Descriptive Writing.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/Narrative Writing.md",
     "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency",
     "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning",
     "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas",
     "Notes/LGCSE/English Language/Reading Skills",
     "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing",
-    "Notes/LGCSE/English Language/Writing Skills",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing",
-    "Notes/LGCSE/Geography/plate_tectonic.md",
-    "Notes/LGCSE/Geography",
-    "Notes/LGCSE/English Language",
-    "Nepang Overview.md"
+    "Notes/LGCSE/English Language/Writing Skills"
   ]
 }
