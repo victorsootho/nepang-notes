@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md",
+                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Generalizing Simple Algebraic Statements; Extended.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md",
+                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Generalizing Simple Algebraic Statements; Extended.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md",
+                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Generalizing Simple Algebraic Statements; Extended.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md"
+                "file": "Notes/LGCSE/Mathematics/01 - Numbers/Generalizing Simple Algebraic Statements; Extended.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
-    "copy,paste.md",
-    "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
     "Notes/LGCSE/Mathematics/01 - Numbers/Numbers.md",
     "Notes/LGCSE/Mathematics/01 - Numbers/Generalizing Simple Algebraic Statements; Extended.md",
+    "copy,paste.md",
+    "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
     "Notes/LGCSE/Mathematics/02 - Fractions",
     "Notes/LGCSE/Mathematics/01 - Numbers/squares, square roots,cubes and cube roots of numbers.md",
     "Notes/LGCSE/Mathematics/01 - Numbers/Number Sequences and Patterns.md",
