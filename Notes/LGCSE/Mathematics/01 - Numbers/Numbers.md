@@ -43,12 +43,13 @@ Directed numbers, also known as signed numbers, include both positive and negati
 6. **Rational and Irrational Numbers**:
    - **Rational Numbers**: Numbers that can be expressed as a fraction <code>&#40;&frasl;&#41;</code>, where <code>a</code> and <code>b</code> are integers and <code>b &#8800; 0</code>.
   - Examples: <code>&#40;1&#8260;2&#41;</code>, 0.75, -3, 4, ...
-
-    **Irrational Numbers**: Numbers that cannot be expressed as a simple fraction; their decimal expansion is non-repeating and non-terminating.
+    $$(\frac{1}{2}), 0.75, -3, 4, ...
+    $$
+   - **Irrational Numbers**: Numbers that cannot be expressed as a simple fraction; their decimal expansion is non-repeating and non-terminating.
   - Examples: <code>&pi;</code>, <code>&radic;2</code>, <code>&radic;3</code>, ...
 
 
-7. - **Real Numbers**:
+7. **Real Numbers**:
    - The set of all rational and irrational numbers.
    - Examples: -1, 0, 2.5, \(\pi\), \(\sqrt{2}\), ...
 
