@@ -15,7 +15,7 @@ For sequences that follow a quadratic pattern, the nth term can often be express
 Consider a sequence where the nth term is given by $n^2 + 2n + 1$.
 
 - For $n = 1$:
-  $$ a_1 = 1^2 + 2 \times 1 + 1 = 1 + 2 + 1 = 4 $$
+  $$a_1 = 1^2 + 2 \times 1 + 1 = 1 + 2 + 1 = 4$$
 - For $n = 2$:
   $$ a_2 = 2^2 + 2 \times 2 + 1 = 4 + 4 + 1 = 9 $$
 - For $n = 3$:
