@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md"
+                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md"
               }
             }
           }
@@ -173,10 +173,26 @@
   },
   "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
+    "Notes/LGCSE/Mathematics/02 - Fractions/01 -Vulgar and Decimal Fractions and Percentages.md",
+    "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/04 - Solve Equations involving Indices.md",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/03 - Negative Fractional Indices; Extended.md",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/02 - Standard Form.md",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/01 - Indices and Standard Form.md",
+    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/02 - Upper and Lower Bounds; Extended.md",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form",
+    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/02 - Upper and Lower Bounds.md",
+    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/01 - Estimations and limits of accuracy.md",
+    "Notes/LGCSE/Mathematics/04 - Basic Operations/Basic Operations.md",
+    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy",
+    "Notes/LGCSE/Mathematics/03 - Ordering/Ordering.md",
+    "Notes/LGCSE/Mathematics/04 - Basic Operations",
+    "Notes/LGCSE/Mathematics/03 - Ordering",
+    "Notes/LGCSE/Mathematics/01 - Numbers/01 - Numbers.md",
+    "Notes/LGCSE/Mathematics/Untitled",
+    "Notes/LGCSE/Mathematics/01 - Numbers/02 - Number Sequences and Patterns.md",
     "Notes/LGCSE/Mathematics/01 - Numbers/03 - squares, square roots,cubes and cube roots of numbers.md",
     "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md",
-    "Notes/LGCSE/Mathematics/01 - Numbers/02 - Number Sequences and Patterns.md",
-    "Notes/LGCSE/Mathematics/01 - Numbers/01 - Numbers.md",
     "copy,paste.md",
     "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
     "Notes/LGCSE/Mathematics/02 - Fractions",
@@ -192,22 +208,6 @@
     "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency/Grammar and Parts of Speech.md",
     "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Exposure to Diverse Reading Materials.md",
     "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Types of Questions.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Comprehension Skills.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas/Global Awareness.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas/Distinguishing Fact from Opinion.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas/Paraphrasing and Summarising.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas/Note Taking Skills.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing/Minutes of Meetings.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing/Article Writing.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing/Memorandum and Email.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing/Report Writing.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing/Letter Writing.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/General Writing Skills.md",
-    "Notes/LGCSE/English Language/Writing Skills/Section 1, Creative Writing/Informative Writing.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency",
-    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning",
-    "Notes/LGCSE/English Language/Reading Skills/Section 1, Reading for Ideas",
-    "Notes/LGCSE/English Language/Reading Skills",
-    "Notes/LGCSE/English Language/Writing Skills/Section 2, Directed Writing"
+    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Comprehension Skills.md"
   ]
 }
