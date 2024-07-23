@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
+                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
+                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
+                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md"
+                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md"
               }
             }
           }
@@ -173,10 +173,18 @@
   },
   "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
-    "Notes/LGCSE/Mathematics/02 - Fractions/01 -Vulgar and Decimal Fractions and Percentages.md",
-    "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
-    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/04 - Solve Equations involving Indices.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/07. Expanding Products of Algebraic Expressions.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/06. Using Brackets and Extracting Common Factors.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/04. Manipulate Simple Algebraic Expressions.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/03. Substituting Numbers for Words and Letters in Formulae.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/02 - Basic Arithmetic Processes Algebraically.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/01 - Using Letters to Express Generalized Numbers.md",
     "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/03 - Negative Fractional Indices; Extended.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation",
+    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/04 - Solve Equations involving Indices; Extended.md",
+    "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
+    "Notes/LGCSE/Mathematics/02 - Fractions/01 -Vulgar and Decimal Fractions and Percentages.md",
     "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/02 - Standard Form.md",
     "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/01 - Indices and Standard Form.md",
     "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/02 - Upper and Lower Bounds; Extended.md",
@@ -200,14 +208,6 @@
     "Notes/LGCSE/English Language/00 - English Language Overview.md",
     "Notes/LGCSE/Mathematics/Practice Excercises",
     "Notes/LGCSE/Mathematics",
-    "Notes/LGCSE/English Language/Practice Exercises/Language Proficiency Drills.md",
-    "Notes/LGCSE/English Language/Practice Exercises/Reading Comprehension.md",
-    "Notes/LGCSE/English Language/Practice Exercises/Writing Assignments.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency/Editing and Proficiency Exercises.md",
-    "Notes/LGCSE/English Language/Practice Exercises",
-    "Notes/LGCSE/English Language/Reading Skills/Section 3, Language Proficiency/Grammar and Parts of Speech.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Exposure to Diverse Reading Materials.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Types of Questions.md",
-    "Notes/LGCSE/English Language/Reading Skills/Section 2, Reading for Meaning/Comprehension Skills.md"
+    "Notes/LGCSE/English Language/Practice Exercises/Language Proficiency Drills.md"
   ]
 }
