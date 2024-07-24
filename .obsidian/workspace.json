@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/03. Vocabulary of Simple Solid Figures.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/03. Vocabulary of Simple Solid Figures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
+                "file": "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/03. Vocabulary of Simple Solid Figures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md"
+                "file": "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/03. Vocabulary of Simple Solid Figures.md"
               }
             }
           }
@@ -173,13 +173,21 @@
   },
   "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/04. Constructing Loci Using the Method of Intersecting Loci.md",
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/3. Reading and Making Scale Drawings.md",
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/02. Constructing Simple Geometrical Figures.md",
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/01. Measure Lines and Angles.md",
+    "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/02. Vocabulary of Triangles, Circles, and Special Quadrilaterals.md",
+    "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/03. Vocabulary of Simple Solid Figures.md",
+    "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships/01. Geometrical Terms and Relationships.md",
+    "Notes/LGCSE/Mathematics/09 - Bearings/03. Representing a Three-Stage Journey Diagrammatically; Extended.md",
+    "Notes/LGCSE/Mathematics/10 - Geometrical Terms and Relationships",
+    "Notes/LGCSE/Mathematics/09 - Bearings/02. Representing a Two-Stage Journey Diagrammatically.md",
+    "Notes/LGCSE/Mathematics/09 - Bearings/01. Bearings.md",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
+    "Notes/LGCSE/Mathematics/09 - Bearings",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci/04. Constructing Loci Using the Method of Intersecting Loci.md",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci/3. Reading and Making Scale Drawings.md",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci/02. Constructing Simple Geometrical Figures.md",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci/01. Measure Lines and Angles.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/11. Simplifying Fractional Expressions with Algebraic Denominators; Extended.md",
-    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci",
+    "Notes/LGCSE/Mathematics/08 - Geometrical Constructions & Loci",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/10. Simplifying Algebraic Expressions with Numeric Denominators.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/09. Factorizing Quadratic Expressions of the Form; Extended.md",
@@ -195,19 +203,11 @@
     "Notes/LGCSE/Mathematics/02 - Fractions/02 - Recognizing Equivalence and Converting Between Forms.md",
     "Notes/LGCSE/Mathematics/02 - Fractions/01 -Vulgar and Decimal Fractions and Percentages.md",
     "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/02 - Standard Form.md",
-    "Notes/LGCSE/Mathematics/06 - Indices and Standard Form/01 - Indices and Standard Form.md",
-    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/02 - Upper and Lower Bounds; Extended.md",
     "Notes/LGCSE/Mathematics/06 - Indices and Standard Form",
-    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/02 - Upper and Lower Bounds.md",
-    "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy/01 - Estimations and limits of accuracy.md",
-    "Notes/LGCSE/Mathematics/04 - Basic Operations/Basic Operations.md",
     "Notes/LGCSE/Mathematics/05 - Estimations and limits of accuracy",
-    "Notes/LGCSE/Mathematics/03 - Ordering/Ordering.md",
     "Notes/LGCSE/Mathematics/04 - Basic Operations",
     "Notes/LGCSE/Mathematics/03 - Ordering",
     "Notes/LGCSE/Mathematics/Untitled",
-    "Notes/LGCSE/Mathematics/02 - Fractions",
-    "Notes/LGCSE/Mathematics/01 - Numbers",
-    "Notes/LGCSE/Mathematics/Practice Excercises"
+    "Notes/LGCSE/Mathematics/02 - Fractions"
   ]
 }
