@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
+                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
+                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
+                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md"
+                "file": "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md"
               }
             }
           }
@@ -173,8 +173,17 @@
   },
   "active": "ca0fe0607ab82226",
   "lastOpenFiles": [
-    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/07. Expanding Products of Algebraic Expressions.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/04. Constructing Loci Using the Method of Intersecting Loci.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/05. Sets of Points in Three Dimensions; Extended.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/3. Reading and Making Scale Drawings.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/02. Constructing Simple Geometrical Figures.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci/01. Measure Lines and Angles.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/11. Simplifying Fractional Expressions with Algebraic Denominators; Extended.md",
+    "Notes/LGCSE/Mathematics/8 - Geometrical Constructions & Loci",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/10. Simplifying Algebraic Expressions with Numeric Denominators.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/08. Factorizing Algebraic Expressions.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/09. Factorizing Quadratic Expressions of the Form; Extended.md",
+    "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/07. Expanding Products of Algebraic Expressions.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/06. Using Brackets and Extracting Common Factors.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/04. Manipulate Simple Algebraic Expressions.md",
     "Notes/LGCSE/Mathematics/07 - Algebraic representation and manipulation/03. Substituting Numbers for Words and Letters in Formulae.md",
@@ -196,18 +205,9 @@
     "Notes/LGCSE/Mathematics/03 - Ordering/Ordering.md",
     "Notes/LGCSE/Mathematics/04 - Basic Operations",
     "Notes/LGCSE/Mathematics/03 - Ordering",
-    "Notes/LGCSE/Mathematics/01 - Numbers/01 - Numbers.md",
     "Notes/LGCSE/Mathematics/Untitled",
-    "Notes/LGCSE/Mathematics/01 - Numbers/02 - Number Sequences and Patterns.md",
-    "Notes/LGCSE/Mathematics/01 - Numbers/03 - squares, square roots,cubes and cube roots of numbers.md",
-    "Notes/LGCSE/Mathematics/01 - Numbers/04 - Generalizing Simple Algebraic Statements; Extended.md",
-    "copy,paste.md",
-    "Notes/LGCSE/Mathematics/00 - Mathematics Overview.md",
     "Notes/LGCSE/Mathematics/02 - Fractions",
     "Notes/LGCSE/Mathematics/01 - Numbers",
-    "Notes/LGCSE/English Language/00 - English Language Overview.md",
-    "Notes/LGCSE/Mathematics/Practice Excercises",
-    "Notes/LGCSE/Mathematics",
-    "Notes/LGCSE/English Language/Practice Exercises/Language Proficiency Drills.md"
+    "Notes/LGCSE/Mathematics/Practice Excercises"
   ]
 }
